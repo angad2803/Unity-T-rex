@@ -1,4 +1,6 @@
-# Unity - 2D - Endless Runner <img  height="50px" align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" alt="Unity logotype">
+<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/logo-unity.png" alt="Unity logo">
+
+# Unity - 2D - Endless Runner 
 
 ## 🔖 Table of contents
 
