@@ -1,5 +1,3 @@
-<img  height="50px" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/images/logo-unity.png" alt="Unity logo">
-
 # Unity - 2D - Endless Runner 
 
 ## 🔖 Table of contents
@@ -84,7 +82,7 @@ It's important to note that this project is entirely non-profit and undertaken p
     - Navigate to the directory where you want to clone the repository.
     - Run the following command:
 ```
-git clone https://github.com/fchavonet/unity-2d-endless-runner.git
+git clone https://github.com/angad2803/Unity-T-rex.git
 ```
 
 2. Open in Unity:
@@ -135,5 +133,5 @@ A big thank you to my friend Yoann for taking time out of his busy schedule to t
 
 ## 👷 <span id="authors">Authors</span>
 
-**Fabien CHAVONET**
-- Github: [@fchavonet](https://github.com/fchavonet)
+**angad2803**
+- Github: [@angad2803](https://github.com/angad2803)
